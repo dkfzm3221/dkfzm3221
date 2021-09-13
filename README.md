@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dkfzm3221/dkfzm3221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
