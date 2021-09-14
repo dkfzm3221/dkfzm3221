@@ -35,6 +35,8 @@
 <div align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkfzm3221&show_icons=true&theme=radical)
+ [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkfzm3221&langs_count=9&hide=TSQL,PLpgSQL,PLSQL&layout=compact&theme=radical)
+](https://github.com/dkfzm3221/github-readme-stats)
 
 </div>
 
