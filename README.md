@@ -1,7 +1,7 @@
 
 <div align=center>
 
- <h1 align="center"><b>💕 Welcome To My Git 💕</b></h1>
+ <h1 align="center"><b>💕 Welcome to my Git 💕</b></h1>
 
 </div>
 
@@ -28,6 +28,9 @@
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp 
 </p>
+
+</br>
+</br>
 
 <div align=center>
   
