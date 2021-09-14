@@ -1,10 +1,11 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Challenging%20&fontSize=90)
+ <h1 align="center"><b>💕 Welcome To My Git 💕</b></h1>
 
 </div>
 
+</br>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
